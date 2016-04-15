@@ -1,9 +1,4 @@
     /*merdi parti*/
-
-* {
-    box-sizing: border-box;
-}
-body {}
 header {
     background-color: black;
     -webkit-flex-shrink: 0;
@@ -155,17 +150,16 @@ li {
     border-right: 1px solid #A4A4A4;
     border-left: 1px solid #A4A4A4;
 }
-<<<<<<< HEAD .footer .container {
+.footer .container {
     width: 100%;
     max-width: 980px;
     margin: 0 auto;
     overflow: hidden;
-    =======.container {
+.container {
         width: 100%;
         max-width: 980px;
         margin: 0 auto;
         overflow: hidden;
-        >>>>>>> e164908bab1c4e391cac8b66c2ee27dfc8e3e22c
     }
     div a {
         font-size: 30px;
